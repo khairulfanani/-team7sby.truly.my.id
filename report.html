@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SBY7</title>
+  <link rel="icon" href="images/icon.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL,GRAD@48,400,0,0" />
+  <link rel="stylesheet" href="reas.css">
+  <link rel="stylesheet" href="report.css">
+</head>
+<body>
+   <div class="container">
+      <aside>
+           
+         <div class="top">
+           <div class="logo">
+             <h2><span><img src="images/logofix.png"weight="10px"height="10px" alt=""></span> </h2>
+           </div>
+           <div class="close" id="close_btn">
+            <span class="material-symbols-sharp">
+              close
+              </span>
+           </div>
+         </div>
+          <div class="sidebar">
+
+          <a href="index.html">
+              <span class="material-symbols-sharp"><img src="images/DashboardLogo2.svg" alt=""></span>
+              <h3>Dashboard</h3>
+           </a>
+           <a href="report.html">
+            <span class="material-symbols-sharp"><img src="images/TeamMember.svg" alt=""> </span>
+            <h3>Report</h3>
+           </a>
+           <a href="member.html">
+            <span class="material-symbols-sharp"><img src="images/report.svg" alt=""> </span>
+            <h3>Team Member</h3>
+           </a>
+           <a href="member.html">
+           </a>
+            
+         </div>
+
+      </aside>
+      
+      <div class="right">
+        <div class="top">
+           <button id="menu_bar">
+             <span class="material-symbols-sharp">menu</span>
+           </button>
+        </div>
+      <main>
+        <br>
+        <br>
+        <br>
+        <h1>Report</h1>
+        <div class="image-main">
+            <img class="main-img" src="images/sedepaban.png" /></div>
+        <h2>Description </h2>
+        <div
+          class="DeskripsiText"
+        >
+        Dataride is a data analysis dashboard about bicycle sales that focuses on analyzing data and presenting it in the form of visualizations that are easy to understand. 
+        in this case we analyze bicycle sales in Europe. <br><br>
+
+        The project dashboard for bicycle sales in Europe is a comprehensive tool designed to provide detailed insight into the bicycle market in different European countries. The dashboard integrates multiple data sources
+        to offer real-time analysis and historical trends, facilitating data-driven decision making for stakeholders including manufacturers, retailers, policy makers, investors and consumers.
+        </div>
+
+        <h2>Insight and Recommendation</h2>
+      <!-- Text Insight and Recommendation -->
+      <ul class="accordion">
+        <!-- Hipotesis 1 -->
+        <li>
+            <input type="radio" name="accordion" id="first" checked>
+            <label for="first">
+              Hypothesis 1: Increasing product variation will lead to a 5% increase in sales within one year.
+            </label>
+            <div class="content">
+              <b> Insight :</b> <br>
+                  1. The 2011-2012 Product_Category consists only of Bikes with a total of 64 Products. <br>
+                  2. The 2013-2016 Product_Category includes Bikes, Accessories and Clothing with a total of 130 Products. <br>
+                  3. The Product_Category with <b>the most purchases</b> is Accessories, and <b>the highest revenue</b> is from the Bikes category. <br>
+                  4. <b>Product with the most purchases</b> is Water Bottle-30 oz. <br>
+                  5. Product types Bikes consist of Touring, Mountain, and Road. <br><br>
+    
+              <b> Recommendation : </b> <br>
+              Based on insights and data analysis, it is recommended to focus on adding product types from Product_Category Bikes and product variations from Product_Category 
+              Accessories to increase sales in the next one year.  <br><br>
+            </div>
+        </li>
+
+        <!-- Hipotesis 2 -->
+        <li>
+            <input type="radio" name="accordion" id="second">
+            <label for="second">
+              Hypothesis 2: If the Product_Category is distributed more evenly in each country, then it will increase sales by 5% in one year.
+            </label>
+            <div class="content">
+              <b> Insight :</b> <br>
+                  1. The Product_Category consists of three categories: Accessories, Bikes and Clothing. <br>
+                  2. The best-selling products are Accessories and Clothing. <br>
+                  3. The highest total revenue is found on Product_Category Bikes. <br>
+                  4. United States is the country with the most purchases with total_order_quantity of 132731 <br><br>
+    
+              <b> Recommendation : </b> <br>
+              Based on insights and data analysis, it is recommended to maintain and focus the United States as the leading country in product 
+              sales in a way that meets consumer needs. As well as expanding Product_Category distribution in each country so that sales can 
+              be increased slowly.
+            </div>
+        </li>
+     
+        <!-- Hipotesis 3 -->
+        <li>
+            <input type="radio" name="accordion" id="third">
+            <label for="third">
+              Hypothesis 3: If you promote or innovate a product that focuses on the highest order and revenue and is gender-sensitive, 
+              then it will increase sales by 5% in a year.
+            </label>
+            <div class="content">
+              <b> Insight :</b> <br>
+              1. Almost every year, the highest revenue comes from Females. However, in certain years, such as 2014 and 2016, there was a decrease in gender Females. <br>
+              2. In 2013–2016, Gender Female had a total low order. <br>
+              3. In 2011–2013, the Product_Category with the highest revenue was bikes. However, in 2014 and 2016, Product_Category Accessories had the highest revenue. <br>
+                It's caused by:<br>
+                <p style="text-indent: 30px;">a. From 2011 to June 2013, the Product_Category consisted only of Bikes.<br>
+                <p style="text-indent: 30px;">b. In July 2014 and December 2016, the Product_Category only had 2 categories left (Clothing and Accessories) <br>
+                <p style="text-indent: 30px;">c. In 2014, from August to December, there were no sales. <br>
+                <p style="text-indent: 30px;">d. January to June 2015, Product_Category consists only of Bikes <br>
+
+              4. Product_Category Accessories that get the most revenue are the Sport-100 Helmet, but for the most purchases, the Water Bottle and Patch Kit products. <br>
+              5. Highest income earned by Gender Female on Product_Category Bikes in the age of Adults (35–64). <br>
+              6. Most ordered by Gender Male on Product_Category Accessories in Adults  (35-64). <br><br>
+             
+                <b> Recommendation : </b> <br>
+                Based on insights and data analysis, it is recommended to obtain high revenues and total_orders in order to be able to focus on promotion and product 
+                innovation dedicated to Gender Female and Male adults (35-64) <br>
+            </div>
+        </li>
+
+        <!-- Hipotesis 4 -->
+        <li>
+            <input type="radio" name="accordion" id="four">
+            <label for="four">
+              Hypothesis 4: If you promote or innovate a product that specifically targets the consumer with the highest purchasing age, 
+              then it will increase sales by 5% in one year.
+            </label>
+            <div class="content">
+            <b> Insight :</b> <br>
+              1. Age_Group Adult (35–64) is the age that dominates the highest earnings and most purchases. <br>
+              2. The products with the highest Revenue are Mountain-200 Black and Mountain-200 Silver from Product_Category Bikes. <br>
+              3. The product with the most purchases is the Water Bottle-30 from Product_Category Accessories. <br>
+              4. Adults (35–64) get the highest purchase percentage of 50%. <br><br>
+
+            <b> Recommendation : </b> <br>
+            Based on insights and data analysis, we can develop innovative products in the category Accessories and Bikes specifically designed for 
+            Age_Group Adults. As well as more intensive promotions on Water Bottle, 30 oz. (in  Product_Category Accessories) and Mountain-200 black 
+            or silver products. (in Product_Category Bikes)
+
+            </div>
+        </li>
+    
+    </main>
+  </div>
+ 
+</div>
+
+    <footer>
+        <div class="footer-main">
+      <h2>Copyrigt by Team07-Sby ©️ 2024</h2>
+        </div>  
+      </footer>
+  <script src="report.js"></script>
+  <script src="aside.js"></script>
+</body>
+</html>

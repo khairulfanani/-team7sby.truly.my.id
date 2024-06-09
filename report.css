@@ -1,0 +1,131 @@
+.container-main {
+  padding:  auto;
+}
+
+.image-main {
+    color: white;
+    position: flex;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+.main-img {
+    vertical-align: bottom;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 0;
+    width: 100%;
+    opacity: 0.9;
+  }
+  .DeskripsiText {
+    color: #000000;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 175%;
+    letter-spacing: 0.01em;
+    font-weight: 500px;
+    position: flex;
+    top: 288px;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+}  
+.accordion{
+    margin: 20px auto;
+    width: 1000px;
+    max-width: 1200px;
+    padding: 1rem;
+}
+.accordion li {
+    background :#e8eaec;
+    box-shadow: 2px 2px 10px -1px rgba(0, 0, 0, 0.15),
+                -2px -2px 10px -1px rgba(225, 225, 225, 0.7);
+    list-style: none;
+    width: 100%;
+    margin: 30px;
+    padding: 5px;
+    border-radius: 15px;
+}
+.accordion li label {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+label::before{
+    content: "+";
+    margin-right:20px ;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+input[type="radio"]{
+    display: none;
+}
+.accordion .content{
+    color: #302e2e;
+    margin-left:40px ;
+    font-size: 14px;
+    padding: 0 10px;
+    line-height: 26px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s, padding 0.5s;
+
+
+    .accordion input[type="radio"]:checked ~ label +.accordion li.content {
+      max-height: 400px;
+      padding: 10px 10px 20px;
+    }
+.accordion input[type="radio"]:checked + label ::before {
+    content: "-";
+}
+aside{
+  position: fixed;
+  width: 18rem;
+  z-index: 3;
+  background-color: var(--clr-white);
+  display: none;
+  left: -110px;
+  animation:  menuLeft .3s ease forwards;
+}
+main .insights{
+display: grid;
+grid-template-columns: repeat(1,1fr);
+gap: 0.5 rem;
+padding: 1px;
+width: 70%;
+}
+.accordion label {
+  font-size: 1rem;
+}
+
+.accordion .content {
+  padding: 0.5rem;
+}
+}
+
+@media (max-width: 768px) {
+  .accordion {
+    width: 100%;
+    max-width: none;
+    padding: 0.5rem;
+  }
+  .accordion li {
+    margin: 15px;
+    padding: 10px;
+  }
+  .accordion label {
+    font-size: 0.9rem;
+  }
+  .accordion .content {
+    font-size: 0.8rem;
+  }
+  main .insights {
+    width: 90%;
+  }
+}

@@ -1,0 +1,666 @@
+[{
+  "Product_Category": "Accessories",
+  "Product": "Water Bottle - 30 oz.",
+  "total_order": "162047",
+  "total_revenue": "736825"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Patch Kit/8 Patches",
+  "total_order": "155310",
+  "total_revenue": "279708"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Mountain Tire Tube",
+  "total_order": "100915",
+  "total_revenue": "461309"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "AWC Logo Cap",
+  "total_order": "67264",
+  "total_revenue": "548761"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Sport-100 Helmet, Red",
+  "total_order": "63652",
+  "total_revenue": "2018651"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Fender Set - Mountain",
+  "total_order": "62081",
+  "total_revenue": "1245350"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Sport-100 Helmet, Black",
+  "total_order": "62072",
+  "total_revenue": "1947731"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Road Tire Tube",
+  "total_order": "61305",
+  "total_revenue": "222782"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Sport-100 Helmet, Blue",
+  "total_order": "55855",
+  "total_revenue": "1773816"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Touring Tire Tube",
+  "total_order": "55794",
+  "total_revenue": "252871"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Road Bottle Cage",
+  "total_order": "39658",
+  "total_revenue": "319994"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Mountain Bottle Cage",
+  "total_order": "36905",
+  "total_revenue": "333751"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Bike Wash - Dissolver",
+  "total_order": "27579",
+  "total_revenue": "198745"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "HL Mountain Tire",
+  "total_order": "27091",
+  "total_revenue": "875036"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "LL Road Tire",
+  "total_order": "26245",
+  "total_revenue": "488855"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "ML Mountain Tire",
+  "total_order": "20655",
+  "total_revenue": "564811"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "ML Road Tire",
+  "total_order": "20559",
+  "total_revenue": "463249"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Hydration Pack - 70 oz.",
+  "total_order": "19857",
+  "total_revenue": "988690"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "HL Road Tire",
+  "total_order": "15412",
+  "total_revenue": "449915"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Half-Finger Gloves, S",
+  "total_order": "14794",
+  "total_revenue": "324906"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Long-Sleeve Logo Jersey, L",
+  "total_order": "13979",
+  "total_revenue": "643544"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Half-Finger Gloves, L",
+  "total_order": "13153",
+  "total_revenue": "285098"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "LL Mountain Tire",
+  "total_order": "12666",
+  "total_revenue": "283013"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Half-Finger Gloves, M",
+  "total_order": "11994",
+  "total_revenue": "260780"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Short-Sleeve Classic Jersey, S",
+  "total_order": "11544",
+  "total_revenue": "559237"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Long-Sleeve Logo Jersey, XL",
+  "total_order": "11542",
+  "total_revenue": "515356"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Long-Sleeve Logo Jersey, M",
+  "total_order": "11345",
+  "total_revenue": "524050"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Long-Sleeve Logo Jersey, S",
+  "total_order": "10896",
+  "total_revenue": "493678"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Short-Sleeve Classic Jersey, L",
+  "total_order": "10435",
+  "total_revenue": "503179"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Women\u0027s Mountain Shorts, M",
+  "total_order": "10317",
+  "total_revenue": "663155"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Touring Tire",
+  "total_order": "9937",
+  "total_revenue": "256575"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Racing Socks, M",
+  "total_order": "9529",
+  "total_revenue": "77671"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Women\u0027s Mountain Shorts, S",
+  "total_order": "9273",
+  "total_revenue": "596287"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Short-Sleeve Classic Jersey, XL",
+  "total_order": "9243",
+  "total_revenue": "447079"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Short-Sleeve Classic Jersey, M",
+  "total_order": "9111",
+  "total_revenue": "426259"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Racing Socks, L",
+  "total_order": "8107",
+  "total_revenue": "66589"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Women\u0027s Mountain Shorts, L",
+  "total_order": "7620",
+  "total_revenue": "484179"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Classic Vest, S",
+  "total_order": "4943",
+  "total_revenue": "289213"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Classic Vest, M",
+  "total_order": "4876",
+  "total_revenue": "278764"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Classic Vest, L",
+  "total_order": "4651",
+  "total_revenue": "268943"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "Hitch Rack - 4-Bike",
+  "total_order": "4605",
+  "total_revenue": "501736"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "All-Purpose Bike Stand",
+  "total_order": "2391",
+  "total_revenue": "341419"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-200 Black, 38",
+  "total_order": "1300",
+  "total_revenue": "2642132"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-750 Black, 48",
+  "total_order": "1264",
+  "total_revenue": "616415"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-200 Silver, 38",
+  "total_order": "1183",
+  "total_revenue": "2398974"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-200 Black, 46",
+  "total_order": "1109",
+  "total_revenue": "2263946"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-200 Silver, 42",
+  "total_order": "1073",
+  "total_revenue": "2231684"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-200 Black, 42",
+  "total_order": "1028",
+  "total_revenue": "2097166"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-750 Black, 44",
+  "total_order": "1009",
+  "total_revenue": "491004"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-200 Silver, 46",
+  "total_order": "918",
+  "total_revenue": "1870154"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-750 Black, 52",
+  "total_order": "877",
+  "total_revenue": "428211"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-150 Red, 62",
+  "total_order": "739",
+  "total_revenue": "2321272"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-350-W Yellow, 48",
+  "total_order": "737",
+  "total_revenue": "1139538"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-550-W Yellow, 42",
+  "total_order": "723",
+  "total_revenue": "732638"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-350-W Yellow, 42",
+  "total_order": "687",
+  "total_revenue": "1044726"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-550-W Yellow, 44",
+  "total_order": "684",
+  "total_revenue": "683218"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-150 Red, 48",
+  "total_order": "672",
+  "total_revenue": "2032160"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-250 Black, 52",
+  "total_order": "661",
+  "total_revenue": "1413118"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-150 Red, 52",
+  "total_order": "652",
+  "total_revenue": "2062996"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-150 Red, 56",
+  "total_order": "641",
+  "total_revenue": "1988761"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-550-W Yellow, 48",
+  "total_order": "613",
+  "total_revenue": "612560"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-550-W Yellow, 38",
+  "total_order": "573",
+  "total_revenue": "565165"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-550-W Yellow, 40",
+  "total_order": "567",
+  "total_revenue": "565287"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-350-W Yellow, 40",
+  "total_order": "560",
+  "total_revenue": "829105"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-250 Red, 58",
+  "total_order": "530",
+  "total_revenue": "1143955"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-750 Black, 58",
+  "total_order": "493",
+  "total_revenue": "236532"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-250 Black, 44",
+  "total_order": "482",
+  "total_revenue": "1018288"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-250 Black, 58",
+  "total_order": "479",
+  "total_revenue": "1042392"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-400-W Silver, 38",
+  "total_order": "469",
+  "total_revenue": "330238"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-400-W Silver, 46",
+  "total_order": "430",
+  "total_revenue": "298025"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-150 Red, 44",
+  "total_order": "404",
+  "total_revenue": "1228161"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-250 Black, 48",
+  "total_order": "399",
+  "total_revenue": "850029"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-350-W Yellow, 44",
+  "total_order": "399",
+  "total_revenue": "586937"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-250 Red, 48",
+  "total_order": "389",
+  "total_revenue": "846858"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-400-W Silver, 42",
+  "total_order": "376",
+  "total_revenue": "263458"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-1000 Yellow, 50",
+  "total_order": "341",
+  "total_revenue": "734140"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-1000 Blue, 46",
+  "total_order": "329",
+  "total_revenue": "705629"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-1000 Yellow, 60",
+  "total_order": "303",
+  "total_revenue": "652539"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-1000 Yellow, 46",
+  "total_order": "296",
+  "total_revenue": "616769"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Red, 48",
+  "total_order": "294",
+  "total_revenue": "199197"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-400-W Silver, 40",
+  "total_order": "267",
+  "total_revenue": "188612"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-2000 Blue, 50",
+  "total_order": "265",
+  "total_revenue": "296395"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-1000 Yellow, 54",
+  "total_order": "263",
+  "total_revenue": "566212"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Red, 62",
+  "total_order": "255",
+  "total_revenue": "188843"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-1000 Blue, 50",
+  "total_order": "249",
+  "total_revenue": "527800"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-1000 Blue, 54",
+  "total_order": "244",
+  "total_revenue": "523310"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-2000 Blue, 46",
+  "total_order": "237",
+  "total_revenue": "258372"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Black, 44",
+  "total_order": "231",
+  "total_revenue": "115935"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-1000 Blue, 60",
+  "total_order": "217",
+  "total_revenue": "466981"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-250 Red, 44",
+  "total_order": "215",
+  "total_revenue": "483261"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-250 Red, 52",
+  "total_order": "211",
+  "total_revenue": "447532"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Silver, 40",
+  "total_order": "202",
+  "total_revenue": "104388"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Black, 40",
+  "total_order": "196",
+  "total_revenue": "96579"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-2000 Blue, 60",
+  "total_order": "194",
+  "total_revenue": "210643"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Silver, 42",
+  "total_order": "179",
+  "total_revenue": "91480"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Black, 58",
+  "total_order": "175",
+  "total_revenue": "122260"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Black, 62",
+  "total_order": "172",
+  "total_revenue": "125325"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Red, 58",
+  "total_order": "171",
+  "total_revenue": "114184"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Yellow, 44",
+  "total_order": "164",
+  "total_revenue": "108204"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-2000 Blue, 54",
+  "total_order": "163",
+  "total_revenue": "178761"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Yellow, 50",
+  "total_order": "153",
+  "total_revenue": "102995"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Red, 60",
+  "total_order": "150",
+  "total_revenue": "105102"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Yellow, 54",
+  "total_order": "148",
+  "total_revenue": "95963"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Black, 60",
+  "total_order": "147",
+  "total_revenue": "103872"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Black, 48",
+  "total_order": "144",
+  "total_revenue": "68052"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Blue, 58",
+  "total_order": "144",
+  "total_revenue": "96026"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Blue, 62",
+  "total_order": "131",
+  "total_revenue": "83843"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Black, 52",
+  "total_order": "130",
+  "total_revenue": "86657"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Black, 48",
+  "total_order": "126",
+  "total_revenue": "85451"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Blue, 44",
+  "total_order": "125",
+  "total_revenue": "83637"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Black, 44",
+  "total_order": "121",
+  "total_revenue": "80268"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Red, 44",
+  "total_order": "116",
+  "total_revenue": "82995"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Black, 42",
+  "total_order": "108",
+  "total_revenue": "55387"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Silver, 52",
+  "total_order": "104",
+  "total_revenue": "51106"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Yellow, 58",
+  "total_order": "103",
+  "total_revenue": "68480"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Silver, 44",
+  "total_order": "96",
+  "total_revenue": "49638"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Blue, 54",
+  "total_order": "94",
+  "total_revenue": "62968"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Yellow, 62",
+  "total_order": "83",
+  "total_revenue": "56634"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-100 Silver, 38",
+  "total_order": "75",
+  "total_revenue": "222734"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-100 Black, 38",
+  "total_order": "75",
+  "total_revenue": "217627"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Touring-3000 Blue, 50",
+  "total_order": "70",
+  "total_revenue": "45694"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-100 Black, 48",
+  "total_order": "68",
+  "total_revenue": "188529"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-100 Black, 44",
+  "total_order": "64",
+  "total_revenue": "187111"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-100 Silver, 44",
+  "total_order": "59",
+  "total_revenue": "162078"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-100 Black, 42",
+  "total_order": "56",
+  "total_revenue": "159366"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Road-650 Red, 52",
+  "total_order": "52",
+  "total_revenue": "34669"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Silver, 48",
+  "total_order": "52",
+  "total_revenue": "25794"
+}, {
+  "Product_Category": "Accessories",
+  "Product": "AWC Logo Cap",
+  "total_order": "52",
+  "total_revenue": "459"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-100 Silver, 48",
+  "total_order": "49",
+  "total_revenue": "142868"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-100 Silver, 42",
+  "total_order": "44",
+  "total_revenue": "122502"
+}, {
+  "Product_Category": "Bikes",
+  "Product": "Mountain-500 Black, 52",
+  "total_order": "40",
+  "total_revenue": "19287"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Fender Set - Mountain",
+  "total_order": "37",
+  "total_revenue": "635"
+}, {
+  "Product_Category": "Clothing",
+  "Product": "Water Bottle - 30 oz.",
+  "total_order": "4",
+  "total_revenue": "16"
+}]

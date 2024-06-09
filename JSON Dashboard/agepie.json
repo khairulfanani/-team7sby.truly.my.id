@@ -1,0 +1,13 @@
+[{
+  "Age_Group": "Adults (35-64)",
+  "order_percentage": "50.020012338434228"
+}, {
+  "Age_Group": "Young Adults (25-34)",
+  "order_percentage": "33.201748446410569"
+}, {
+  "Age_Group": "Youth (\u003c25)",
+  "order_percentage": "16.048766908921287"
+}, {
+  "Age_Group": "Seniors (64+)",
+  "order_percentage": "0.72947230623391868"
+}]

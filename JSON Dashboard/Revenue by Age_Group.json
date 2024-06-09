@@ -1,0 +1,49 @@
+[{
+  "Age_Group": "Adults (35-64)",
+  "Product_Category": "Bikes",
+  "total_revenue": "24599221"
+}, {
+  "Age_Group": "Young Adults (25-34)",
+  "Product_Category": "Bikes",
+  "total_revenue": "18505961"
+}, {
+  "Age_Group": "Adults (35-64)",
+  "Product_Category": "Accessories",
+  "total_revenue": "7789362"
+}, {
+  "Age_Group": "Youth (\u003c25)",
+  "Product_Category": "Bikes",
+  "total_revenue": "6739277"
+}, {
+  "Age_Group": "Young Adults (25-34)",
+  "Product_Category": "Accessories",
+  "total_revenue": "4961845"
+}, {
+  "Age_Group": "Adults (35-64)",
+  "Product_Category": "Clothing",
+  "total_revenue": "4288839"
+}, {
+  "Age_Group": "Young Adults (25-34)",
+  "Product_Category": "Clothing",
+  "total_revenue": "2740083"
+}, {
+  "Age_Group": "Youth (\u003c25)",
+  "Product_Category": "Accessories",
+  "total_revenue": "2130302"
+}, {
+  "Age_Group": "Youth (\u003c25)",
+  "Product_Category": "Clothing",
+  "total_revenue": "1180228"
+}, {
+  "Age_Group": "Seniors (64+)",
+  "Product_Category": "Accessories",
+  "total_revenue": "123782"
+}, {
+  "Age_Group": "Seniors (64+)",
+  "Product_Category": "Bikes",
+  "total_revenue": "101328"
+}, {
+  "Age_Group": "Seniors (64+)",
+  "Product_Category": "Clothing",
+  "total_revenue": "48229"
+}]

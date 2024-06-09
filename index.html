@@ -1,0 +1,249 @@
+<!--Bismillahirrahmanirrahim-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SBY7</title>
+  <link rel="icon" href="images/icon.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL,GRAD@48,400,0,0" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="container">
+      <aside>
+           
+         <div class="top">
+           <div class="logo">
+             <h2><span><img src="images/logofix.png"weight="10px"height="10px" alt=""></span> </h2>
+           </div>
+           <div class="close" id="close_btn">
+            <span class="material-symbols-sharp">
+              close
+              </span>
+           </div>
+         </div>
+          <div class="sidebar">
+
+          <a href="index.html">
+              <span class="material-symbols-sharp"><img src="images/DashboardLogo2.svg" alt=""></span>
+              <h3>Dashboard</h3>
+           </a>
+           <a href="report.html">
+            <span class="material-symbols-sharp"><img src="images/TeamMember.svg" alt=""> </span>
+            <h3>Report</h3>
+           </a>
+           <a href="member.html">
+            <span class="material-symbols-sharp"><img src="images/report.svg" alt=""> </span>
+            <h3>Team Member</h3>
+           </a>
+           <a href="member.html">
+           </a>
+            
+          </div>
+
+
+      </aside>
+      <div class="right">
+
+        <div class="top">
+           <button id="menu_bar">
+             <span class="material-symbols-sharp">menu</span>
+           </button>
+        
+        </div>
+      <main>
+        <br>
+        <br>
+    <br>
+           <h1>Dashboard</h1>
+        <div class="insights">
+            <div class="sales">
+               <span class="material-symbols-sharp"><img src="images/profits.png" width="25px" height="25px" alt=""></span>
+               <div class="middle">
+                 <div class="left">
+                   <h3>Total Profit</h3>
+                   <h1>27,742,619 </h1>
+                 </div>
+                  <div class="progress">
+                  </div>
+               </div>
+               <small>+8 From Yesterday</small>
+            </div>
+              <div class="expenses">
+                <span class="material-symbols-sharp"><img src="images/Revenue Logo.svg" alt=""></span>
+                <div class="middle">
+                  <div class="left">
+                    <h3>Total Revenue</h3>
+                    <h1>730,207,982</h1>
+                  </div>
+                   <div class="progress">
+                   </div>
+                </div>
+                <small>+5 From Yesterday</small>
+             </div>
+               <div class="income">
+                <span class="material-symbols-sharp"><img src="images/Total_Product.svg" alt=""></span>
+                <div class="middle">
+                  <div class="left">
+                    <h3>Total Product</h3>
+                    <h1>130</h1>
+                  </div>
+                   <div class="progress">
+                   </div>
+ 
+                </div>
+                <small>+1.2 From Yesterday</small>
+             </div>
+             <div class="order">
+              <span class="material-symbols-sharp"><img src="images/Total_Order.svg" alt=""></span>
+              <div class="middle">
+                <div class="left">
+                  <h3>Total Orders</h3>
+                  <h1>1,329,124</h1>
+                </div>
+                 <div class="progress">
+                 </div>
+
+              </div>
+              <small>+0.5 From Yesterday</small>
+           </div>
+             <div class="country">
+              <span class="material-symbols-sharp"><img src="images/world.png" width="25px" height="25px" alt=""></span>
+              <div class="middle">
+                <div class="left"><br>
+                  <h3>Country</h3>
+                  <h1>6</h1>
+                </div>
+                 <div class="progress">
+                 </div>
+              </div>
+              <small> </small>
+           </div>
+          </div>
+          <br>
+          <div class="country-23">
+            <span class="material-symbols-sharp"></span>
+            <div class="middle">
+              <div class="left"><br>
+                <h3></h3>
+
+              </div>
+               <div class="progress">
+               </div>
+            </div>
+     
+                </div>
+                <div class="charts"> 
+
+    <div class="charts-card">
+        <h2 class="chart-title">Sales Summary</h2>
+        <div class="filter">
+            <div class="dropdown">
+                <button class="dropbtn">Filter</button>
+                <div class="dropdown-content">
+                    <div>
+                        <label for="year-filter">Year:</label>
+                        <select id="year-filter" multiple>
+                            <option value="all">All</option>
+                            <!-- Options will be populated dynamically -->
+                        </select>
+                    </div>
+                    <div>
+                        <label><input type="checkbox" value="revenue" checked> Revenue</label>
+                        <label><input type="checkbox" value="profit" checked> Profit</label>
+                        <label><input type="checkbox" value="cost" checked> Cost</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <canvas id="linechart"></canvas>
+    </div>        
+        
+                  <div class="charts-card">
+                    <h2 class="chart-title">Revenue by Countries</h2>
+                    <div class="filter">
+                      <div class="dropdown">
+                        <button class="dropbtn">Filter</button>
+                        <div class="dropdown-content">
+                          <div>
+                            <label for="country-filter">Country:</label>
+                            <select id="country-filter" multiple>
+                              <!-- Options will be populated dynamically -->
+                            </select>
+                          </div>
+                          <div>
+                            <label><input type="checkbox" value="bikes" checked> Bikes Revenue</label>
+                            <label><input type="checkbox" value="accessories" checked> Accessories Revenue</label>
+                            <label><input type="checkbox" value="clothing" checked> Clothing Revenue</label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <canvas id="chart"></canvas>
+                  </div>
+                  <div class="charts-card">
+                    <h2 class="chart-title">Revenue by Age Groups</h2>
+                    <div class="filter">
+                      <div class="dropdown">
+                        <button class="dropbtn">Filter</button>
+                        <div class="dropdown-content">
+                          <div id="age-group-filters">
+                            <!-- Checkboxes will be populated dynamically -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <canvas id="pie" style="display: block; box-sizing: border-box; height: 300px; width: 300px;"></canvas>
+                  </div>
+                  <div class="charts-card">
+                    <h2 class="chart-title">Most Product by Order Quantity</h2>
+                    <div class="filter_sales_summary">
+                      <div class="dropdown">
+                        <button class="dropbtn">Filter</button>
+                        <div class="dropdown-content">
+                          <div id="product-category-filters">
+                            <!-- Checkboxes will be populated dynamically -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <table id="jtable" style="display: block; box-sizing: border-box; height: 250px; width: 550px;" width="180" height="138">
+                      <thead>
+                        <tr>
+                          <th>Product Category</th>
+                          <th>Product</th>
+                          <th>Orders</th>
+                          <th>Revenues</th>
+                        </tr>
+                      </thead>
+                      <tbody></tbody>
+                    </table>
+                  </div>
+                  
+                  <div class="charts-card">
+                    <h2 class="chart-title">Highest Product Revenue</h2>
+                    <canvas id="miring" style="display: block; box-sizing: border-box; height: 277px; width: 555px;" width="277" height="138"></canvas>
+                  </div>
+                  
+                  </div>
+                </div>
+      </main>
+
+
+
+</div>
+
+<footer>
+  <div class="footer-main">
+<h2>Copyrigt by Team07-Sby ©️ 2024</h2>
+  </div>  
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="script.js"></script>
+<script src="aside.js"></script>
+
+</body>
+</html>
